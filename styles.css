@@ -1,0 +1,44 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: front;
+  x: 5%;
+  y: 92%;
+  fill: white;
+}
+
+#myMonth {
+  font-size: 50;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: end;
+  x: 82%;
+  y: 90%;
+  fill: white;
+}
+
+#myDay {
+  font-size: 50;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: end;
+  x: 95%;
+  y: 90%;
+  fill: white;
+}
+
+#stepsLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: start;
+  x: 65%;
+  y: 80%;
+  fill: white;
+}
+

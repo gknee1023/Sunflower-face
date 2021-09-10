@@ -1,0 +1,7 @@
+<svg class="background">
+  <image href="sunflower.jpg" />
+  <text id="myLabel"></text>
+  <text id="myMonth" />
+  <text id="myDay" />
+  <text id="stepsLabel" />
+</svg>

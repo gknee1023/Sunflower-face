@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "f1b88f82-7528-43df-8e19-4502a0f529a1",
+    "appType": "clockface",
+    "appDisplayName": "Sunflower",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate",
+      "access_exercise",
+      "access_calendar",
+      "access_sleep"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Sunflower"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
